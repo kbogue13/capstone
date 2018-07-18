@@ -5,7 +5,7 @@ It is expected that you have read the README accompanying this script before run
 For this script to run you must have the Google Chrome web browser as well as the python libraries for
 selenium, zipfile, pandas and geopandas installed.
 
-Additionally, you will need a Chrome webdriver. One has been provided for you in the repository or your own can be found
+Additionally, you will need a Chrome webdriver. One has been provided for you in the GitHub repository or your own can be found
 at https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 You will be asked to provide a path to your 'Downloads' folder and a path to the Chrome webdriver.
